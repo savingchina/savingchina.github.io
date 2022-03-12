@@ -1,6 +1,6 @@
 # Overview 
 The project records the manipulation of China society. 
-The cultivate of a blood bloodthirsty generation becomes a huge threat. 
+This blood bloodthirsty generation becomes a huge threat to humanity. 
 
 Most Chinese out side The Great Firewall of China not thinking that way. 
 Example: https://huaren.us/showtopic.html?topicid=2787022&fid=398
