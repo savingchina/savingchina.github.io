@@ -12,9 +12,11 @@ The project is the first step to counter the effect of censorship of the great f
 It will be a long hard journey to  break some percent of people's mind out of the cult.  
 
 The process is 
-1. Collect  trusted material (like hospital bombing interview) 
+1. Collect high impact mis-information
+1. Collect trusted material (like hospital bombing interview) 
 1. Create material to related to audience.
-1. Shrink the material to ensure it goes back into firewall.   
+1. Translate the material in the frame of mind of cult
+1. Push the material back into firewall.   
 
 The repo is open to contribution. 
 Let us form a team and join the effort to save china. 
