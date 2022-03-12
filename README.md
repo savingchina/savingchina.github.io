@@ -1,12 +1,12 @@
 # Overview 
-The project records the manipulation of China society. 
+The project records the manipulation of China society and generate a cult following. 
 This blood bloodthirsty generation becomes a huge threat to humanity. 
 
 Most Chinese out side The Great Firewall of China not thinking that way. 
 Example: https://huaren.us/showtopic.html?topicid=2787022&fid=398
 
 The project is the first step to counter the censorship of the great firewall.
-It will be a long hard journey to build trust and material to break the cult.  
+It will be a long hard journey to build trust and create material to break very small percent of people out of the cult.  
 
 The repo is open to contribution. 
 Please join the effort to save china. 
