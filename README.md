@@ -1,13 +1,20 @@
 # Overview 
-The project records the manipulation of China society, the cultivate of blood bloodthirsty generation. 
-Most people out side The Great Firewall of China not thinking that way. 
+The project records the manipulation of China society. 
+The cultivate of a blood bloodthirsty generation becomes a huge threat. 
+
+Most Chinese out side The Great Firewall of China not thinking that way. 
 Example: https://huaren.us/showtopic.html?topicid=2787022&fid=398
 
-The project is the first step to counter the censorship of the great firewall. 
+The project is the first step to counter the censorship of the great firewall.
+It will be a long hard journey to build trust and material to break the cult.  
 
-The repo is open to contribution. Please join the effort to save china. 
-Or if you don't have time. Tweet to： @savingChina22 the url of high traffic propaganda
+The repo is open to contribution. 
+Please join the effort to save china. 
+If you don't have time. Tweet to： @savingChina22 the url of high traffic propaganda
 
+General guide to contribute
+  https://github.com/savingchina/savingchina.github.io/wiki 
+  
 Some example:
 
 [BidenWarning](https://github.com/savingchina/savingchina.github.io/wiki/BidenWarning)
