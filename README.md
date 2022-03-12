@@ -11,7 +11,8 @@ Example:
 The project is the first step to counter the effect of censorship of the great firewall.
 It will be a long hard journey to  break some percent of people's mind out of the cult.  
 
-The process is 
+
+# Process  
 1. Collect high impact mis-information
 1. Collect trusted material (like hospital bombing interview) 
 1. Create material to related to audience.
@@ -25,7 +26,7 @@ If you don't have time. Tweet to： @savingChina22 the url of high traffic propa
 General guide to contribute
   https://github.com/savingchina/savingchina.github.io/wiki 
   
-Some example material collected:
+# Example material collected:
 
 [BidenWarning](https://github.com/savingchina/savingchina.github.io/wiki/BidenWarning)
 
@@ -37,4 +38,7 @@ Some example material collected:
 
 [biowarfarelab](https://github.com/savingchina/savingchina.github.io/wiki/biowarfarelab)
 
+# Inspirations: 
+
+https://www.reddit.com/r/QAnonCasualties/wiki/resources
 
