@@ -1,8 +1,11 @@
 # Overview 
 
-[The Great Firewall of China](https://en.wikipedia.org/wiki/Great_Firewall) manipulated of China society and generate a cult following. 
-This blood bloodthirsty generation becomes a huge threat to humanity. 
-Evidently, most Chinese out side [The Great Firewall of China](https://en.wikipedia.org/wiki/Great_Firewall) is not thinking that way. 
+[The Great Firewall of China](https://en.wikipedia.org/wiki/Great_Firewall) manipulated of China society and generate a cult following.
+ >> Need clarity on what is Great Firewall
+This blood bloodthirsty generation becomes a huge threat to humanity.
+ >> Change too broad and not accurate, it is more clear with well known Russia influence  
+ >> Need clarity on this like Trofim Lysenko 李森科 and Ukrain Holodomor
+Evidently, most Chinese out side [The Great Firewall of China](https://en.wikipedia.org/wiki/Great_Firewall) is not aligned. 
 Example: 
 1. [As a Chinese American, I can't help but feel ashamed](https://www.reddit.com/r/China/comments/tbzr90/as_a_chinese_american_i_cant_help_but_feel_ashamed/?utm_medium=android_app&utm_source=share)
 1. [In much of the world, Russia is losing the information war over Ukraine. In China, though, it’s winning big](https://www.reddit.com/r/worldnews/comments/tce7vs/in_much_of_the_world_russia_is_losing_the/?utm_medium=android_app&utm_source=share)
@@ -40,5 +43,7 @@ General guide to contribute
 
 # Inspirations: 
 
-https://www.reddit.com/r/QAnonCasualties/wiki/resources
+Be Patient and resourceful https://www.reddit.com/r/QAnonCasualties/wiki/resources
+
+Be [Gareth Jones](https://en.wikipedia.org/wiki/Gareth_Jones_(journalist)) instead of Walter Duranty 
 
